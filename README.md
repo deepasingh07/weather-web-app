@@ -1,17 +1,34 @@
-# Weather Web App 🌤️
+# Weather_webApp
 
-A simple **Weather Web Application** that allows users to check the current weather of any city in the world. Built using HTML, CSS, and JavaScript.
+## I used open weather API to fetch data 
 
-## Features
+### This  web project done in html,css ,js
 
-- Search for weather by city name.
-- Displays temperature, weather condition, humidity, and wind speed.
-- Clean and responsive user interface.
-- Easy to use and lightweight.
+ 
+### Features of the project.
 
-## Technologies Used
+* It provide dynamic weather data like temp, min max temp etc.
+* Dynamic background images change according to weather status.
+* Dynamic weather icon change according to weather status.
+* It provide basic information like feels like temperature,humidity,pressure,wind speed.
+* It will not accept empty input.
+* it will give you  alert if city name not matched with api  data.
+* a good  ux/ui 
 
-- **HTML5** - Structure of the website
-- **CSS3** - Styling and layout
-- **JavaScript** - Fetching data from API and dynamic updates
-- **OpenWeatherMap API** - Weather data provider
+
+### Snapshot
+
+* Default 
+<img src="ss/demo1.png" width="100%">
+
+* when you entered any valid city
+ <img src="ss/demo.png" width="100%">
+
+* when you did'nt entered anything 
+ <img src="ss/empty.png" width="100%">
+
+* when entered city did'nt matched with data
+ <img src="ss/bad.png" width="100%">
+
+
+
